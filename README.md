@@ -1,36 +1,47 @@
-👋 Olá, eu sou Beto Torres
+🚀 Beto Torres
+Fullstack Developer | TypeScript Specialist
 
-🎓 Professor de Programação Fullstack
-📊 Contabilista
-🏗️ Engenheiro Civil em formação
-💻 Desenvolvedor Fullstack & Mobile
-📚 Ensino programação do zero, com foco em lógica, TypeScript, Next.js, React e React Native
+Desenvolvedor focado na construção de aplicações web e mobile modernas, utilizando TypeScript end-to-end com arquitetura escalável e bem estruturada.
 
----
+Atuo com Next.js no frontend e NestJS no backend, desenvolvendo sistemas performáticos, organizados e preparados para crescimento.
 
-## 🚀 Tecnologias
-- HTML5
-- CSS / Tailwind CSS
-- JavaScript / TypeScript
-- React / Next.js
-- React Native
-- Node.js / Nest.js
-- Java
-- Banco de Dados (SQL e NoSQL)
-- Git & GitHub
-  
----
+🧩 Stack Principal
 
-📌 Projetos em destaque
-🔹 Projeto Fullstack Educacional – Aplicação web com Next.js e Nest.js
-🔹 Aplicativo Mobile – App em React Native com TypeScript
+Frontend
+Next.js • React • TypeScript • Tailwind CSS
 
----
+Backend
+NestJS • Node.js • Java • APIs REST • JWT
 
-## 📊 GitHub Stats
-(imagens)
+Banco de Dados
+PostgreSQL • MongoDB • Prisma • TypeORM
 
----
+Mobile
+React Native
 
-## 📫 Contato
-- Email: capb1981@gmail.com
+Dev & Infra
+Docker • Docker Compose • Git • GitHub
+
+🏗 O que eu construo
+
+Aplicações Fullstack com Next.js + NestJS
+
+APIs REST estruturadas e modulares
+
+Sistemas com autenticação e integração com banco de dados
+
+Interfaces modernas e responsivas
+
+Projetos organizados para manutenção e escalabilidade
+
+📌 Projetos
+
+🔹 Fullstack Educacional
+Next.js + NestJS + PostgreSQL
+
+🔹 App Mobile Integrado à API
+React Native + TypeScript
+
+📫 Contato
+
+📧 capb1981@gmail.com
