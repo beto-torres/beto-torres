@@ -1,4 +1,4 @@
-##👋 Olá, eu sou Beto Torres
+👋 Olá, eu sou Beto Torres
 
 🎓 Professor de Programação Fullstack
 📊 Contabilista
