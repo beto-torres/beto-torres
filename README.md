@@ -1,59 +1,48 @@
-👋 Olá, eu sou Beto Torres
+# 👋 Olá, eu sou Beto Torres
 
-🎓 Professor de Programação Fullstack
-📊 Contabilista
-🏗️ Engenheiro Civil em formação
-💻 Desenvolvedor Fullstack & Mobile
-📚 Ensino programação do zero, com foco em lógica, TypeScript, Next.js, React e React Native
+> 🎓 **Professor de Programação Fullstack** | 💻 **Desenvolvedor Fullstack & Mobile**
+> 📊 **Contabilista** | 🏗️ **Engenheiro Civil em formação**
+
+Sou apaixonado por ensinar programação do zero, focando em lógica sólida e no ecossistema moderno de JavaScript/TypeScript.
 
 ---
 
 ## 🚀 Tecnologias
 
-🔹 Frontend
-Next.js (App Router, SSR, SSG)
-React
-TypeScript
-Tailwind CSS
-Arquitetura baseada em componentes
-Consumo de APIs REST
+### 🔹 Frontend
+* **Core:** Next.js (App Router, SSR, SSG), React, TypeScript
+* **Estilização:** Tailwind CSS
+* **Arquitetura:** Baseada em componentes, Consumo de APIs REST
 
-🔹 Backend
-Java
-NestJS (Arquitetura modular)
-Node.js
-APIs RESTful
-Injeção de dependência
-Middlewares & Guards
-Autenticação com JWT
-Validação com DTOs
+### 🔹 Backend
+* **Linguagens:** Java, Node.js
+* **Frameworks:** NestJS (Arquitetura modular)
+* **Conceitos:** APIs RESTful, Injeção de dependência, Middlewares & Guards
+* **Segurança:** Autenticação com JWT, Validação com DTOs
 
-🔹 Banco de Dados
-PostgreSQL
-MongoDB
-SQL & NoSQL
-Prisma / TypeORM
+### 🔹 Banco de Dados
+* **Relacional:** PostgreSQL, SQL
+* **NoSQL:** MongoDB
+* **ORM:** Prisma / TypeORM
 
-🔹 Mobile
-React Native
+### 🔹 Mobile
+* React Native
 
-🔹 Versionamento & Workflow
-Git
-GitHub
-Estruturação de projetos escaláveis
-  
+### 🔹 DevOps & Workflow
+* **Containerização:** Docker 🐳
+* **Versionamento:** Git, GitHub
+* **Foco:** Estruturação de projetos escaláveis
+
 ---
 
-📌 Projetos em destaque
-🔹 Projeto Fullstack Educacional – Aplicação web com Next.js e Nest.js
-🔹 Aplicativo Mobile – App em React Native com TypeScript
+## 📌 Projetos em Destaque
+* **Projeto Fullstack Educacional** – Aplicação web robusta com Next.js e Nest.js
+* **Aplicativo Mobile** – App nativo em React Native com TypeScript
 
 ---
 
 ## 📊 GitHub Stats
-(imagens)
-
 ---
 
 ## 📫 Contato
-- Email: capb1981@gmail.com
+- 📧 **Email:** capb1981@gmail.com
