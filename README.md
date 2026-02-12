@@ -3,11 +3,15 @@
 > 🎓 **Professor de Programação Fullstack** | 💻 **Desenvolvedor Fullstack & Mobile**
 > 📊 **Contabilista** | 🏗️ **Engenheiro Civil em formação**
 
-Sou apaixonado por ensinar programação do zero, focando em lógica sólida e no ecossistema moderno de JavaScript/TypeScript.
+Sou um profissional multidisciplinar apaixonado por ensinar programação, com atuação sólida em desenvolvimento de software, contabilidade e projetos de engenharia civil.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Competências & Tecnologias
+
+### 🔹 Engenharia Civil & Projetos
+* **Ferramentas:** Revit (BIM), AutoCAD
+* **Atuação:** Projetos Residenciais, Escrituração, Regularização de Imóveis e Planejamento.
 
 ### 🔹 Frontend
 * **Core:** Next.js (App Router, SSR, SSG), React, TypeScript
@@ -38,6 +42,7 @@ Sou apaixonado por ensinar programação do zero, focando em lógica sólida e n
 ## 📌 Projetos em Destaque
 * **Projeto Fullstack Educacional** – Aplicação web robusta com Next.js e Nest.js
 * **Aplicativo Mobile** – App nativo em React Native com TypeScript
+* **Projetos de Engenharia** – Modelagem residencial e plantas baixas
 
 ---
 
