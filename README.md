@@ -1,47 +1,61 @@
-🚀 Beto Torres
-Fullstack Developer | TypeScript Specialist
+ajuste a bio abaixo
 
-Desenvolvedor focado na construção de aplicações web e mobile modernas, utilizando TypeScript end-to-end com arquitetura escalável e bem estruturada.
+👋 Olá, eu sou Beto Torres
 
-Atuo com Next.js no frontend e NestJS no backend, desenvolvendo sistemas performáticos, organizados e preparados para crescimento.
+🎓 Professor de Programação Fullstack
+📊 Contabilista
+🏗️ Engenheiro Civil em formação
+💻 Desenvolvedor Fullstack & Mobile
+📚 Ensino programação do zero, com foco em lógica, TypeScript, Next.js, React e React Native
 
-🧩 Stack Principal
+---
 
-Frontend
-Next.js • React • TypeScript • Tailwind CSS
+## 🚀 Tecnologias
 
-Backend
-NestJS • Node.js • Java • APIs REST • JWT
+🔹 Frontend
+Next.js (App Router, SSR, SSG)
+React
+TypeScript
+Tailwind CSS
+Arquitetura baseada em componentes
+Consumo de APIs REST
 
-Banco de Dados
-PostgreSQL • MongoDB • Prisma • TypeORM
+🔹 Backend
+Java
+NestJS (Arquitetura modular)
+Node.js
+APIs RESTful
+Injeção de dependência
+Middlewares & Guards
+Autenticação com JWT
+Validação com DTOs
 
-Mobile
+🔹 Banco de Dados
+PostgreSQL
+MongoDB
+SQL & NoSQL
+Prisma / TypeORM
+
+🔹 Mobile
 React Native
 
-Dev & Infra
-Docker • Docker Compose • Git • GitHub
+🔹 Versionamento & Workflow
+Git
+GitHub
+Estruturação de projetos escaláveis
+  
+---
 
-🏗 O que eu construo
+📌 Projetos em destaque
+🔹 Projeto Fullstack Educacional – Aplicação web com Next.js e Nest.js
+🔹 Aplicativo Mobile – App em React Native com TypeScript
 
-Aplicações Fullstack com Next.js + NestJS
+---
 
-APIs REST estruturadas e modulares
+## 📊 GitHub Stats
+(imagens)
 
-Sistemas com autenticação e integração com banco de dados
+---
 
-Interfaces modernas e responsivas
-
-Projetos organizados para manutenção e escalabilidade
-
-📌 Projetos
-
-🔹 Fullstack Educacional
-Next.js + NestJS + PostgreSQL
-
-🔹 App Mobile Integrado à API
-React Native + TypeScript
-
-📫 Contato
-
-📧 capb1981@gmail.com
+## 📫 Contato
+- Email: capb1981@gmail.com
