@@ -1,5 +1,3 @@
-ajuste a bio abaixo
-
 👋 Olá, eu sou Beto Torres
 
 🎓 Professor de Programação Fullstack
